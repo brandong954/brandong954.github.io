@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm an entrepreneur who loves Computer Science. Currently working on my second startup, MyCoachLive, while pursuing a CS degree at the University of Texas. Hook em' ! \m/
 
-### More Information
+### Interests
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+startups, programming, drumming, music production, fishing
