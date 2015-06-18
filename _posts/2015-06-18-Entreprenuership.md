@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Entreprenuership, No Regrets"
+title: "Entrepreneurship, No Regrets"
 ---
 
-I recently got asked by a fellow student at UT to do a short interview about my jounrey down Entreprenuership Lane. In the end it was nice to see my experience laid out in black and white. Hopefully it'll inspire someone as much as it inspires me. 
+I recently got asked by a fellow student at UT to do a short interview about my journey down Entrepreneurship Lane. In the end it was nice to see my experience laid out in black and white. Hopefully it'll inspire someone as much as it inspires me. 
 
 
 ### What's your background and career path?
 
-I’ve been focused on the healthcare industry since 2006, when I first started my schooling as a pre-med student in South Florida. In 2009, I transferred to the University of Texas to continue my studies but became interested in doing a social health and wellness startup called PerfectlyNOT in 2011. Since then I’ve still been focused on the healthcare industry but more so regarding the tech side of things. I’ll be finishing up my Computer Science degree at UT this fall with a minor in Biological Sciences.
+I’ve been focused on the healthcare industry since 2006, when I first started my schooling as a pre-med student in South Florida. In 2009, I transferred to the University of Texas to continue my studies but became interested in doing a social health and wellness startup called [PerfectlyNOT](http://www.perfectlynot.com) in 2011. Since then I’ve still been focused on the healthcare industry but more so regarding the tech side of things. I’ll be finishing up my Computer Science degree at UT this fall with a minor in Biological Sciences.
 
 ### What motivated you to become an entrepreneur?
 
@@ -36,4 +36,4 @@ My first problem was accepting the plunge. I was really scared at first with my 
 
 ### Conclusion
 
-Although the company failed, I learned more about life and entrepreneurship than anyone could from a formal education. I don’t regret anything and feel very blessed I got to experience such an amazing opportunity. It’s actually what drove me to go back to school to learn how to program. With the two years of experience I got from PerfectlyNOT and a CS degree from UT, I feel more confident than ever in my ability to successfully create another startup, which I have recently begun to do with my second startup MyCoachLive. 
+Although the company failed, I learned more about life and entrepreneurship than anyone could from a formal education. I don’t regret anything and feel very blessed I got to experience such an amazing opportunity. It’s actually what drove me to go back to school to learn how to program. With the two years of experience I got from [PerfectlyNOT](http://www.perfectlynot.com) and a CS degree from UT, I feel more confident than ever in my ability to successfully create another startup, which I have recently begun to do with my second startup [MyCoachLive](http://www.mycoachlive.com). 
