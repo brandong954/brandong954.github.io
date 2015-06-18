@@ -32,7 +32,7 @@ It was by far a roller-coaster of emotions. Some days I’d be on top of the wor
 
 ### What problems did you overcome?
 
-My first problem was accepting the plunge. I was really scared at first with my decision to drop out of school and take on the unknown, but the thrill and enjoyment I was getting from entrepreneurship made me quick to forget about all the risks. My next problem was finding an investor. I had no idea how this was going to work out, but I knew if I kept at it and did my due diligence, it would all work out. Luckily, it did! Finding the right team became my next problem. I actually never overcame this problem until the very end, when the company ran out of money, and I had to let everyone go. My lack of experience mixed with a lackluster team of programmers doomed the company from the very beginning.
+My first problem was accepting the plunge. I was really scared at first with my decision to drop out of school and take on the unknown, but the thrill and enjoyment I was getting from entrepreneurship made me quick to forget about all the risks. My next problem was finding an investor. I had no idea how this was going to work out, but I knew if I kept at it and did my due diligence, it would all work out. **Luckily, it did!** Finding the right team became my next problem. I actually never overcame this problem until the very end, when the company ran out of money, and I had to let everyone go. My lack of experience mixed with a lackluster team of programmers doomed the company from the very beginning.
 
 ### Conclusion
 
