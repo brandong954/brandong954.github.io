@@ -37,3 +37,7 @@ My first problem was accepting the plunge. I was really scared at first with my 
 ### Conclusion
 
 Although the company failed, I learned more about life and entrepreneurship than anyone could from a formal education. I don’t regret anything and feel very blessed I got to experience such an amazing opportunity. It’s actually what drove me to go back to school to learn how to program. With the two years of experience I got from [PerfectlyNOT](http://www.perfectlynot.com) and a CS degree from UT, I feel more confident than ever in my ability to successfully create another startup, which I have recently begun to do with my second startup [MyCoachLive](http://www.mycoachlive.com). 
+
+Inline-style: 
+![alt text](https://brandong954.github.com/images/chart-of-the-day-the-startup-curve-march-2012.jpg "Startup Process Chart")
+
