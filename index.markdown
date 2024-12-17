@@ -19,5 +19,6 @@ layout: home
       {% endif %}
     {% endfor %}
   </ul>
+  <h1>All Past Posts</h1>
 </body>
 
