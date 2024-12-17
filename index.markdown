@@ -4,3 +4,20 @@
 
 layout: home
 ---
+<body>
+  <h1>This Past Week</h1>
+  <ul>
+    {% assign today = site.time | date: "%Y-%m-%d" %}
+    {% assign six_days_ago = today | date: "%s" | minus: 518400 | date: "%Y-%m-%d" %}
+    {% for post in site.posts %}
+      {% assign post_date = post.date | date: "%Y-%m-%d" %}
+      {% if post_date >= six_days_ago %}
+        <li>
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <p>{{ post.excerpt }}</p>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</body>
+
