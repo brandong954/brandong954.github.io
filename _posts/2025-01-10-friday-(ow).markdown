@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thursday (In/Out)"
+title:  "Friday (Ow)"
 date:   2025-01-10 04:18:00 -0700
 categories: jekyll update
 ---
