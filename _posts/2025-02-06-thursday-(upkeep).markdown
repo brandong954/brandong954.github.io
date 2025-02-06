@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Thursday (Upkeep)"
+date:   2025-02-06 03:22:00 -0700
+categories: jekyll update
+---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3dhKUOn8m0W4b41e5FsvtO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+Mission: improve my health and overall wellbeing.
