@@ -7,7 +7,7 @@ layout: page
     {% if page.genres %}
       <p>Genres: 
         {% for genre in page.genres %}
-          <a href="/genre/{{ genre }}">{{ genre }}</a>{% unless forloop.last %}, {% endunless %}
+          <a href="/genres/{{ genre }}">{{ genre }}</a>{% unless forloop.last %}, {% endunless %}
         {% endfor %}
       </p>
     {% endif %}

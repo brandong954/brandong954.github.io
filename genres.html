@@ -5,6 +5,6 @@ title: "Genres"
 <ul>
   {% assign genres = site.posts | map: 'genres' | join: ',' | split: ',' | uniq %}
   {% for genre in genres %}
-    <li><a href="/genre/{{ genre | slugify }}">{{ genre }}</a></li>
+    <li><a href="/genres/{{ genre | slugify }}">{{ genre }}</a></li>
   {% endfor %}
 </ul>
