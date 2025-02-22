@@ -3,6 +3,12 @@ layout: post
 title:  "Sunday (Mr. Fixit)"
 date:   2025-02-02 04:20:00 -0700
 categories: posts
+genres:
+- Alternative Hip Hop
+- Alternative Rock
+- Nu-Disco
+- Progressive Rap
+- Progressive Rock
+- R&B And Soul
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4ArKS6Y3RLHiM2VTm14gIX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-Mission: fix-up the house and chill.

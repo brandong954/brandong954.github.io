@@ -3,6 +3,14 @@ layout: post
 title:  "Tuesday ($#!7)"
 date:   2025-02-04 04:19:00 -0700
 categories: posts
+genres:
+- Alternative Metal
+- Deathcore
+- Hip Hop
+- Liquid Funk
+- Metalcore
+- Nu Jazz
+- Nu Metal
+- Progressive Metalcore
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3K31EKtARFFCmjxVKnfXkL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-Mission: be nice.
