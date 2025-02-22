@@ -17,7 +17,7 @@ layout: home
           <p>{{ post.excerpt }}</p>
           <p>Genres: 
             {% for genre in post.genres %}
-              <a href="/genres/{{ genre }}">{{ genre }}</a>{% unless forloop.last %}, {% endunless %}
+              <a href="/genres/{{ genre | slugify }}">{{ genre }}</a>{% unless forloop.last %}, {% endunless %}
             {% endfor %}
           </p>
         </li>
