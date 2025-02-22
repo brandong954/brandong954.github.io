@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-A blog full of playlists depicting how I'm generally feeling for a given day. Would love to hear of any music you enjoy!
+A daily music blog of playlists generated based on my emotions and experiences. Let's talk music: [brandon@dailysetlist.com](mailto:brandon@dailysetlist.com)
