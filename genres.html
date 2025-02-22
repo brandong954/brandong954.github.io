@@ -3,7 +3,7 @@ layout: page
 title: "Genres"
 ---
 <ul>
-  {% assign genres = site.posts | map: 'genres' | join: ',' | split: ',' | uniq %}
+  {% assign genres = site.posts | map: 'genres' | join: ',' | split: ',' | uniq | sort %}
   {% for genre in genres %}
     <li><a href="/genres/{{ genre | slugify }}">{{ genre }}</a></li>
   {% endfor %}
