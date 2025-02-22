@@ -2,8 +2,8 @@
 layout: post
 title: "Saturday (Ethereal Fusion)"
 date: 2025-02-22 04:59:00 -0700
-categories: jekyll update
-tags:
+categories: posts
+genres:
 - Ambient
 - Jazz
 - Lo-fi
