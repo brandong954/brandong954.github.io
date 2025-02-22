@@ -14,6 +14,7 @@ layout: home
       {% if post_date >= six_days_ago %}
         <li>
           <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <p>{{ post.excerpt }}</p>
           <p>Genres: 
             {% for genre in post.genres %}
               <a href="/genres/{{ genre | slugify }}">{{ genre }}</a>{% unless forloop.last %}, {% endunless %}
