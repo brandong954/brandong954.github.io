@@ -3,7 +3,7 @@ layout: post
 title:  "Monday (Too Early)"
 date:   2025-02-10 01:00:00 -0700
 categories: posts
-genrres:
+genres:
 - Gangsta Rap
 - Hip Hop
 - Metalcore
