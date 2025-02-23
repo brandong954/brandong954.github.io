@@ -3,5 +3,15 @@ layout: post
 title:  "Monday (Go)"
 date:   2024-12-09 05:45:38 -0700
 categories: posts
+genres:
+- Deathcore
+- Djent
+- Hardcore Punk
+- Hip Hop
+- Indie Rock
+- Metalcore
+- Nu Metal
+- Progressive Metal
+- Progressive Rock 
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6FNJ0ahm675Cq1yGuSYqq4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
