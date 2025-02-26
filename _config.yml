@@ -61,3 +61,5 @@ plugins:
 collections:
   genres:
     output: true
+
+google_analytics: G-9F57EMSPCY
