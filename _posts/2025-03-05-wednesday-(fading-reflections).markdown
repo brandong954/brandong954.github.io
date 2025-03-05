@@ -6,7 +6,6 @@ categories: posts
 genres:
 - Alternative Rock
 - Emo
-- Hip Hop
 - Indie Rock
 - Math Rock
 - Post-Rock
