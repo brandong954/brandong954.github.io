@@ -6,7 +6,7 @@ categories: posts
 genres:
 - Ambient
 - Jazz
-- Lo-fi
+- Lo-Fi
 - Indietronica
 - Space
 - Electronic
