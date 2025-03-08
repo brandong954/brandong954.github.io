@@ -1,5 +1,5 @@
 ---
 layout: genre
-title: Lo-fi
-genre: Lo-fi
+title: Lo-Fi
+genre: Lo-Fi
 ---
