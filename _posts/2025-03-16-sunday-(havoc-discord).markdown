@@ -4,7 +4,7 @@ title: "Sunday (Havoc Discord)"
 date: 2025-03-16 06:30:00 -0700
 categories: posts
 genres:
-- Metalcore,
+- Metalcore
 - Post-Hardcore
 - Progressive Metal
 ---
