@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sunday (Veins of Revolt)"
-date: 2025-03-30 04:15:00 -0700
+date: 2025-03-30 00:15:00 -0700
 categories: posts
 genres:
 - Alternative Metal
