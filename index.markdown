@@ -12,8 +12,9 @@ layout: home
     {% for post in site.posts %}
       {% assign post_date = post.date | date: "%Y-%m-%d" %}
       {% if post_date >= six_days_ago %}
+      {% assign day = post.date | date: "%A" %}
         <li>
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <h2><a href="{{ post.url }}">{{ day }}</a></h2>
           <p>{{ post.excerpt }}</p>
           <p>Genres: 
             {% for genre in post.genres %}
