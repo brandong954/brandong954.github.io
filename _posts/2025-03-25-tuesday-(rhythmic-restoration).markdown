@@ -11,5 +11,9 @@ genres:
 - Intelligent Dance Music
 - Trip Hop
 - Witch House
+top-picks:
+- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2wIW9Eej2JkPApFLb6kzPt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Intelligent Dance Music
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1D7VNo30kBycdeVwKJHC9N?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

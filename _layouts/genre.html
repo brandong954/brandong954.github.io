@@ -1,9 +1,24 @@
 ---
 layout: page
 ---
+{% assign page_genre = page.genre | downcase %}
+<h2>Top Picks</h2>
+  {% for post in site.posts %}
+    {% for item in post.top-picks %}
+      {% assign item_genres = item.genres | join: ',' | downcase %}
+      {% if item_genres contains page_genre %}
+        {{ item.pick }}
+        <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+        <br>
+        <br>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+<h2>Mixes</h2>
 <ul>
   {% for post in site.posts %}
-    {% if post.genres contains page.genre %}
+    {% assign post_genres = post.genres | join: ',' | downcase %}
+    {% if post_genres contains page_genre %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
     {% endif %}
   {% endfor %}

@@ -14,5 +14,9 @@ genres:
 - Sludge Metal
 - Speedcore
 - Synthwave
+top-picks:
+- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0KMcrYMzBlimZzaalqGiof?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Speedcore
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1P0KGDUZ3vQkhJxthYgsUi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

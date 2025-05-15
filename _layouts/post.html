@@ -15,4 +15,18 @@ layout: page
   <div>
     {{ content }}
   </div>
+  <h2>Top Picks</h2>
+  {% if page.top-picks %}
+    {% for item in page.top-picks %}
+      <div>
+        {{ item.pick }}
+        <p>Genres: 
+          {% assign sorted_genres = item.genres | sort %} 
+          {% for genre in sorted_genres %}
+            <a href="/genres/{{ genre | slugify }}">{{ genre }}</a>{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </p>
+      </div>
+    {% endfor %}
+  {% endif %}
 </article>

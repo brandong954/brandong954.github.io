@@ -9,5 +9,10 @@ genres:
 - Experimental
 - Intelligent Dance Music
 - Liquid Funk 
+top-picks:
+- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/36cVogwefpjG0PUKkh0sKI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Drum And Bass
+  - Liquid Funk 
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3bFcIGERmn04NSH39cmmPn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
