@@ -1,13 +1,16 @@
 ---
 layout: page
-title: "Top Picks"
+title: "Top Discoveries"
 ---
+<div style="text-align: center;">
+  Check out my <a href="https://open.spotify.com/playlist/6aFbqrir2BPbbI5dhNymsF?si=446d9cac9a394f04">top discoveries for 2025 </a> on Spotify.
+</div>
 {% for post in site.posts %}
-  {% if post.top-picks %}
+  {% if post.top-discoveries %}
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <h2><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}</h2>
-    {% for item in post.top-picks %}
-      {{ item.pick }}
+    {% for item in post.top-discoveries %}
+      {{ item.discovery }}
       <p>Genres: 
         {% assign sorted_genres = item.genres | sort %}
         {% for genre in sorted_genres %}

@@ -12,11 +12,11 @@ genres:
 - Math Rock
 - Riddim
 - Shoegaze 
-top-picks:
-- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3SqkQsIc7uDsNqP21HfBNF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+top-discoveries:
+- discovery: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3SqkQsIc7uDsNqP21HfBNF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   genres:
   - Breakcore
-- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1MLSs6pnDXS7IGidrCe2XX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- discovery: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1MLSs6pnDXS7IGidrCe2XX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   genres:
   - Math Rock
 ---

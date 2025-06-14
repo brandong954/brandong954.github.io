@@ -16,8 +16,8 @@ genres:
 - Slowcore
 - Stoner Rock
 - Synthpop
-top-picks:
-- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/30PrJeY3G7kAtg0ghgv0fS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+top-discoveries:
+- discovery: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/30PrJeY3G7kAtg0ghgv0fS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   genres:
   - Electronic
 ---

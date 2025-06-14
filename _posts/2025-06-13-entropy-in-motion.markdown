@@ -6,11 +6,11 @@ categories: posts
 genres:
 - Metalcore
 - Technical Death Metal 
-top-picks:
-- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1pbRzs1dkG6luTXoMNiZHs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+top-discoveries:
+- discovery: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1pbRzs1dkG6luTXoMNiZHs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   genres:
   - Technical Death Metal 
-- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1Iw3U8tOdPYCfceDNcvFas?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- discovery: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1Iw3U8tOdPYCfceDNcvFas?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   genres:
   - Metalcore
 ---

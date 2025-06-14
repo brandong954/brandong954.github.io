@@ -11,12 +11,12 @@ genres:
 - Intelligent Dance Music
 - Jungle
 - Math Rock
-top-picks:
-- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7LZl7bIDvuX5twjY7iPH8a?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+top-discoveries:
+- discovery: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7LZl7bIDvuX5twjY7iPH8a?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   genres:
   - Breakcore
   - Jungle
-- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2y8QlFM8O9zhONQsQpFgsv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- discovery: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2y8QlFM8O9zhONQsQpFgsv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   genres:
   - Alternative Metal
 ---

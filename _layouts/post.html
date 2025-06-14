@@ -15,11 +15,11 @@ layout: page
   <div>
     {{ content }}
   </div>
-  <h2>Top Picks</h2>
-  {% if page.top-picks %}
-    {% for item in page.top-picks %}
+  {% if page.top-discoveries %}
+    <h2>Top Discoveries</h2>
+    {% for item in page.top-discoveries %}
       <div>
-        {{ item.pick }}
+        {{ item.discovery }}
         <p>Genres: 
           {% assign sorted_genres = item.genres | sort %} 
           {% for genre in sorted_genres %}

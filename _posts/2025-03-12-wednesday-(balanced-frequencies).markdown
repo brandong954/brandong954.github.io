@@ -12,11 +12,11 @@ genres:
 - Psychedelic Rock
 - Shoegaze
 - Synthpop
-top-picks:
-- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0ywE44QcDVxmKK7kXp9sDq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+top-discoveries:
+- discovery: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0ywE44QcDVxmKK7kXp9sDq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   genres:
   - Indie Rock
-- pick: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1bVfUMWYjiBy1EP0xdi6iF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- discovery: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1bVfUMWYjiBy1EP0xdi6iF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   genres:
   - Dream Pop
 ---
