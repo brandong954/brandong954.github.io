@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brandong954
 github_username:  brandong954
-future: true # Allow future posts to be displayed.
+future: false # Allow future posts to be displayed.
 
 # Build settings
 #theme: minima
