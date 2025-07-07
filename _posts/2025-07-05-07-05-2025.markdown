@@ -1,8 +1,18 @@
 ---
 layout: post
-title: "07.05.2025"
+title: "Hollow BPM"
 date: 2025-07-05 00:00:00 -0700
 categories: posts
 genres:
+- Ambient
+- Breakcore
+- Dark Ambient
+- Intelligent Dance Music
+- Jungle
+top-discoveries:
+- discovery: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4v2Dk8vKRnMA9NY3tRArVk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Breakcore
+  - Jungle
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3ljKCMoYy8zF1tnJ2XwX3r?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

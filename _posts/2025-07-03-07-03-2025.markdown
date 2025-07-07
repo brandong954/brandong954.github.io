@@ -1,8 +1,34 @@
 ---
 layout: post
-title: "07.03.2025"
+title: "Dreams in Crash Tempo"
 date: 2025-07-03 00:00:00 -0700
 categories: posts
 genres:
+- Alternative Hip Hop
+- Breakcore
+- Dark Ambient
+- Downtempo
+- Dream Pop
+- Drum And Bass
+- East Coast Hip Hop
+- Electronic
+- Experimental
+- G-Funk
+- Garage Rock
+- Hip Hop
+- House
+- Intelligent Dance Music
+- Liquid Funk
+- Math Rock
+- Metalcore
+- Post-Hardcore
+- Post-Rock
+- Progressive Metal
+- Progressive Metalcore
+- Shoegaze 
+top-discoveries:
+- discovery: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/45pzbIi3UBLIXZ3ASTKcfh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Downtempo
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5Qypyr1TZ7TlgwWViqKEaa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
