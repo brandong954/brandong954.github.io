@@ -2,12 +2,12 @@
 layout: page
 ---
 {% assign page_genre = page.genre | downcase %}
-<h2>Top Picks</h2>
+<h2>Top Discoveries</h2>
   {% for post in site.posts %}
-    {% for item in post.top-picks %}
+    {% for item in post.top-discoveries %}
       {% assign item_genres = item.genres | join: ',' | downcase %}
       {% if item_genres contains page_genre %}
-        {{ item.pick }}
+        {{ item.discovery }}
         <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
         <br>
         <br>
