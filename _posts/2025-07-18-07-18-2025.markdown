@@ -4,5 +4,8 @@ title: "07.18.2025"
 date: 2025-07-18 00:00:00 -0700
 categories: posts
 genres:
+- Djent
+- J-Rap
+- Uk Funky
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/04NNw8cwpm30EjpQu0M9bX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
