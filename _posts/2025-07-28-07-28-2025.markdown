@@ -4,5 +4,12 @@ title: "07.28.2025"
 date: 2025-07-28 00:00:00 -0700
 categories: posts
 genres:
+- Breakcore
+- Electronic
+- Free Jazz
+- Hardcore Punk
+- Jazz
+- Jazz House
+- Uk Funky
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6KK1VZZTyEsPnHUSqYZQvN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
