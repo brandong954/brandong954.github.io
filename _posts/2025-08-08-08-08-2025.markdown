@@ -4,5 +4,27 @@ title: "08.08.2025"
 date: 2025-08-08 00:00:00 -0700
 categories: posts
 genres:
+- Alternative Hip Hop
+- Alternative Metal
+- Deathcore
+- Djent
+- Dubstep
+- East Coast Hip Hop
+- Electronic
+- Emo
+- Hip Hop
+- Indie Rock
+- Metalcore
+- Post-Grunge
+- Post-Hardcore
+- Post-Rock
+- Progressive House
+- Progressive Metal
+- Punk Rock
+- R&B And Soul
+- Rock
+- Synthpop
+- Synthwave
+- Trap
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4nI4lMPl0gyHr9rYucwZjP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
