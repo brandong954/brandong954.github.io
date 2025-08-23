@@ -10,5 +10,9 @@ genres:
 - Jungle
 - Liquid Funk
 - Nu Jazz
+top-discoveries:
+- discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1N6iRHc1IAqdSwXSkO3USn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Breakcore
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5XZECykrj0HcGIgBSfEtcq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
