@@ -1,0 +1,23 @@
+---
+layout: post
+title: "08.20.2025"
+date: 2025-08-20 00:00:00 -0700
+categories: posts
+genres:
+- Breakcore
+- Dream Pop
+- Drum And Bass
+- East Coast Hip Hop
+- Electronic
+- Experimental Hip Hop
+- Hip Hop
+- Jungle
+- Liquid Funk
+- Lo-Fi
+- Metalcore
+- Post-Hardcore
+- Slowcore
+- Smooth Jazz
+- Trip Hop
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/58qV1jwz6hU6apOrKbAWfn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

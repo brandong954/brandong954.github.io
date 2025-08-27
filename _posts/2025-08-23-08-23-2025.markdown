@@ -1,0 +1,34 @@
+---
+layout: post
+title: "08.23.2025"
+date: 2025-08-23 00:00:00 -0700
+categories: posts
+genres:
+- Ambient
+- Americana
+- Avant-Garde
+- Breakcore
+- Chillwave
+- Dark Ambient
+- Dream Pop
+- Drone
+- Drum And Bass
+- Electronic
+- Experimental Hip Hop
+- Funk
+- Hip Hop
+- House
+- Jersey Club
+- Jungle
+- Lo-Fi
+- Post-Rock
+- Slowcore
+- Synthpop
+- Synthwave
+- Vaporwave
+top-discoveries:
+- discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6OVaItJwnVzWHYLCJ0yNzm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Dream Pop
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4t53ZoC5ROXpf0qi6KqBc0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

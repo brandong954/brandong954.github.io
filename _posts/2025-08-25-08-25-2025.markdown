@@ -1,0 +1,23 @@
+---
+layout: post
+title: "08.25.2025"
+date: 2025-08-25 00:00:00 -0700
+categories: posts
+genres:
+- Alternative Metal
+- Ambient
+- Breakcore
+- Dark Ambient
+- Dream Pop
+- Hip Hop
+- Indie Rock
+- Intelligent Dance Music
+- Phonk
+- Post-Rock
+- Southern Hip Hop
+top-discoveries:
+- discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5MyRPgbrejBtiK5b7WLMbN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Phonk
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6L7FiSJK2k942pOnAIulSx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

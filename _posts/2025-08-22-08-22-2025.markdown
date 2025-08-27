@@ -1,0 +1,15 @@
+---
+layout: post
+title: "08.22.2025"
+date: 2025-08-22 00:00:00 -0700
+categories: posts
+genres:
+- Alternative Metal
+- Breakcore
+- Progressive Rock 
+top-discoveries:
+- discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1gmWnG5TeRj91Tdm2lpEvJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Alternative Metal
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/12kzCf4WS0BvJPwCPiqkYd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

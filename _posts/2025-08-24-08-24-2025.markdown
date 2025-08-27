@@ -1,0 +1,21 @@
+---
+layout: post
+title: "08.24.2025"
+date: 2025-08-24 00:00:00 -0700
+categories: posts
+genres:
+- Alternative Metal
+- Alternative Rock
+- Americana
+- Contemporary R&B
+- Dark Ambient
+- Dream Pop
+- Electronica
+- Grunge
+- Hip Hop
+- Industrial Rock
+- Post-Hardcore
+- Slowcore
+- Witch House
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3bC3gDd3GYxQExKGTWVMfl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
