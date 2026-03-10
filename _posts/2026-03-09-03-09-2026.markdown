@@ -4,5 +4,14 @@ title: "03.09.2026"
 date: 2026-03-09 00:00:00 -0700
 categories: posts
 genres:
+- Contemporary R&B
+- Dance-Pop
+- Electronic Dance Music
+- Electropop
+- Hip Hop
+- House
+- Indie Pop
+- Pop
+- Uk Garage
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0SVhqAgOVcikc9dneqJbZJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
