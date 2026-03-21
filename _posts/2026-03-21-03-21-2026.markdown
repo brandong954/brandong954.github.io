@@ -1,0 +1,14 @@
+---
+layout: post
+title: "03.21.2026"
+date: 2026-03-21 00:00:00 -0700
+categories: posts
+genres:
+    - Djent
+    - Math Rock
+    - Metalcore
+    - Post-Hardcore
+    - Progressive Metal
+    - Progressive Metalcore
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2YGmnaCBANVjuFQEyNjVKn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
