@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Care, Repair and Birthday Flair"
+date: 2026-03-24 00:00:00 -0700
+categories: posts
+    - Black Metal
+    - Dark Ambient
+    - Gothic Metal
+    - Groove Metal
+    - Industrial
+    - Industrial Metal
+    - Metalcore
+    - Progressive Metal
+    - Sludge Metal
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0BXdXHgDxk3q6RoAzQglGD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
