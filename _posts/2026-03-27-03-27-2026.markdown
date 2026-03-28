@@ -5,7 +5,17 @@ date: 2026-03-27 00:00:00 -0700
 categories: posts
 genres:
     - East Coast Hip Hop
-    - Gangsta Rap
     - Hardcore Hip Hop
+    - Jazz Rap
+    - Punk Rap 
+top-discoveries:
+- discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5L1RkN1nh5m18ZuXCktUbc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Nerdcore
+  - Punk Rap
+  - Rap Rock
+- discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7DyAbrlPQTi2v6DAmgC8Qa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - East Coast Hip Hop
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6NfIlfazXuPsYQ8zHplg3w?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

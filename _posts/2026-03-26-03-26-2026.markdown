@@ -7,5 +7,8 @@ genres:
     - Alternative Hip Hop
     - East Coast Hip Hop
     - Hip Hop
+- discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0AIADbs20wMj3229QY0XnN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Alternative Hip Hop
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2dHFMzDf6mGTWTU85CxM4Q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
