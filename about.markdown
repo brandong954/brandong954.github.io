@@ -3,10 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-A daily music blog of playlists.
+A personal daily music blog based on my emotions and activities.
 
 Let's talk music: [brandon@dailysetlist.com](mailto:brandon@dailysetlist.com)
 
 [Follow on Spotify](https://open.spotify.com/user/brandong954?si=e0499eb750304c4e)
 
-This blog is powered by the [getGenre()](https://getgenre.com/) API.
+This blog is powered by the [getGenre()](https://getgenre.com/) API and astrology.
