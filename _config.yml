@@ -21,7 +21,7 @@
 title: Daily Setlist
 email: brandon@dailysetlist.com
 description: >- # this means to ignore newlines until "baseurl:"
-   This blog is powered by <a href="https://getgenre.com/">getGenre()</a>, Spotify, ChatGPT, and astrology.
+   Powered by <a href="https://getgenre.com/">getGenre()</a>, Spotify, ChatGPT, and astrology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brandong954
