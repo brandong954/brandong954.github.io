@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Signal Drift in a Structured Environment"
+date: 2026-03-31 00:00:00 -0700
+categories: posts
+genres:
+- Glitch
+- Intelligent Dance Music
+top-discoveries:
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3j6DrRyLw8eQq1M1YOaCxY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
