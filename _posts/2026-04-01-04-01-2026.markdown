@@ -6,5 +6,8 @@ categories: posts
 genres:
 - Contemporary R&B
 top-discoveries:
+- discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/4eqTUIwtnwlrCYV4uJf08q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Contemporary R&B
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/06S0jJ0GWrNaD5hSkxjm4l?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
