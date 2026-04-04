@@ -4,7 +4,14 @@ title: "Soft Control, Living Systems"
 date: 2026-04-01 00:00:00 -0700
 categories: posts
 genres:
+- Afrobeats
+- Alternative Pop
+- Alternative R&B
+- Alternative Rock
 - Contemporary R&B
+- Electropop
+- Hip Hop
+- Pop
 top-discoveries:
 - discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/4eqTUIwtnwlrCYV4uJf08q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   genres:
