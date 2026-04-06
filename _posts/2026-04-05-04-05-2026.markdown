@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Care.exe"
+date: 2026-04-05 00:00:00 -0700
+categories: posts
+genres:
+    - Big Beat
+    - Drumstep
+    - Dub Techno
+    - Electronic
+    - Experimental
+    - Hardtechno
+    - House
+    - Intelligent Dance Music
+    - Latin House
+    - Minimal Techno
+    - Techno 
+top-discoveries:
+- discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/4hcLWoJzr91EwXOV5eOICx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+    - Intelligent Dance Music
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1h4P2VvUm75ypkKdg9L0Z0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
