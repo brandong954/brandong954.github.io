@@ -4,9 +4,23 @@ title: "Transient States, Permanent Noise"
 date: 2026-04-10 00:00:00 -0700
 categories: posts
 genres:
+- Alternative R&B
 - Ambient
-- Glitch
+- Contemporary R&B
+- Dark Ambient
+- Dubstep
+- Electronic
+- Electronica
+- Intelligent Dance Music
+- Minimal Techno
+- Neoclassical Dark Wave
+- Post-Dubstep
+- Shoegaze
+- Synthpop
 - Trip Hop
 top-discoveries:
+- discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0LFPjvWEaHP7WKQD6F5pVS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Trip Hop
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7FfSV7c6Vdn2K2r6grvHFg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
