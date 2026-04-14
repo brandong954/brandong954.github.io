@@ -1,20 +1,12 @@
 ---
 layout: post
-title: “Carry State / Let Go"
-date: 2026-04-13 00:00:00 -0700
+title: “Folding Time"
+date: 2026-04-14 00:00:00 -0700
 categories: posts
 genres:
-    - Ambient
-    - Chanson
-    - Chillwave
-    - Dark Ambient
-    - Doom Metal
-    - Dream Pop
-    - Electronic
-    - French Pop
-    - Post-Rock
-    - Shoegaze
-    - Synthwave
+- Ambient
+- Downtempo
+- Glitch
 top-discoveries:
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7A92EzZTsKCU4vpN5rXlO6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
