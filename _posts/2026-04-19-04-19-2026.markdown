@@ -4,8 +4,16 @@ title: “Stutterstep Summer"
 date: 2026-04-19 00:00:00 -0700
 categories: posts
 genres:
-- Glitch Hop
-- Indie Pop
+    - Chillwave
+    - Deep House
+    - Downtempo
+    - Electronic
+    - Future Bass
+    - Glitch
+    - Hip Hop
+    - Indie Pop
+    - Nu-Disco
+    - Vaporwave
 top-discoveries:
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/75bQ9E01kSg8h9bqWVGbit?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
