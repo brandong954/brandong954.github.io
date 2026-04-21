@@ -4,9 +4,20 @@ title: “Drift Logic"
 date: 2026-04-20 00:00:00 -0700
 categories: posts
 genres:
+- Alternative R&B
+- Big Beat
+- Electronic
 - Experimental Hip Hop
-- Glitch Hop
-- Indietronica
+- Future Bass
+- Hip Hop
+- Hyperpop
+- Intelligent Dance Music
+- Pop
+- Trip Hop
 top-discoveries:
+- discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6FaKm8eLybEuKqj6rNHYxz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  genres:
+  - Electronic
+  - Synth Funk
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5NjDKoUqSQerLYHJIUjwhO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
