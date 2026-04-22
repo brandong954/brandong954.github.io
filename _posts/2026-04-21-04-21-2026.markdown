@@ -4,8 +4,11 @@ title: “Held in Passing"
 date: 2026-04-21 00:00:00 -0700
 categories: posts
 genres:
-- Glitch Hop
-- Indie Pop
+- Electronic
+- Future Bass
+- Glitch
+- Hip Hop
+- Indie Pop 
 top-discoveries:
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5X6huOfFUMRwyQX46MVWhb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

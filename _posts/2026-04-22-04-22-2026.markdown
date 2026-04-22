@@ -1,0 +1,16 @@
+---
+layout: post
+title: “Subtle Corrections"
+date: 2026-04-22 00:00:00 -0700
+categories: posts
+genres:
+- Dream Pop
+- Emo
+- Indie Rock
+- Lo-Fi
+- Shoegaze
+- Slowcore
+- Tech House
+top-discoveries:
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0WHLGYatuLeWZMnoOvxIaN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
