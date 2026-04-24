@@ -4,9 +4,14 @@ title: “Return Current"
 date: 2026-04-24 00:00:00 -0700
 categories: posts
 genres:
-    - Industrial
+    - Acid Techno
+    - Afro Tech
     - Breakbeat
-    - Techno
+    - Future Bass
+    - Hardtechno
+    - Hip Hop
+    - Industrial
+    - Techno 
 top-discoveries:
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2aKHjkxXQGR6xrK5v6Y8JI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
