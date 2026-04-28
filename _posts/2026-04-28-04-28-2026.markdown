@@ -4,6 +4,13 @@ title: “The Shape of Dissolving Light"
 date: 2026-04-28 00:00:00 -0700
 categories: posts
 genres:
+    - Djent
+    - Experimental Hip Hop
+    - Post-Rock
+    - Progressive Metal
+    - Progressive Rock
+    - Shoegaze
+    - Space Rock
 top-discoveries:
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3s1VPlmar6hWvfyxv2r61p?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
