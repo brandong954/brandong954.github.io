@@ -1,0 +1,19 @@
+---
+layout: post
+title: “Architected Pressure"
+date: 2026-05-01 00:00:00 -0700
+categories: posts
+genres:
+  - Downtempo
+  - Dub Techno
+  - Dubstep
+  - Electronic
+  - Experimental Hip Hop
+  - Hardstyle
+  - Intelligent Dance Music
+  - Political Hip Hop
+  - Post-Rock
+  - Synthwave
+top-discoveries:
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3IyLScbCIEvVjKqOOHzZQZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
