@@ -1,0 +1,14 @@
+---
+layout: post
+title: “Low Phase"
+date: 2026-05-06 00:00:00 -0700
+categories: posts
+genres:
+    - Ambient
+    - Dub Techno
+    - Electronic
+    - Intelligent Dance Music
+    - Minimal Techno
+top-discoveries:
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7xjPv687DZfV2QRhvGlfP3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
