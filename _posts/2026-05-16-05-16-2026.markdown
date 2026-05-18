@@ -1,0 +1,17 @@
+---
+layout: post
+title: “The Long Way Home"
+date: 2026-05-16 00:00:00 -0700
+categories: posts
+genres:
+    - Alternative Country
+    - Americana
+    - Folk
+    - Indie Folk
+    - Indie Rock
+    - Post-Rock
+    - Shoegaze
+    - Slowcore
+top-discoveries:
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/04wlaQ4ri8GoCckOdp4aBS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
