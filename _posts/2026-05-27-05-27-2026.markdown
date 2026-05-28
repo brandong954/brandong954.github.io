@@ -4,6 +4,19 @@ title: “Slow Weather"
 date: 2026-05-27 00:00:00 -0700
 categories: posts
 genres:
+  - Ambient
+  - Downtempo
+  - Electronic
+  - Electronica
+  - Experimental
+  - Folktronica
+  - Hip Hop
+  - Intelligent Dance Music
+  - Latin House
+  - Lo-Fi
+  - Nu Jazz
+  - Post-Rock
+  - Trip Hop
 top-discoveries:
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7zjE4EsxsUM5wyE34TznLA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
