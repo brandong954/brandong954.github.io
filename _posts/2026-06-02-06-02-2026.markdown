@@ -4,11 +4,19 @@ title: “Children of the Fog"
 date: 2026-06-02 00:00:00 -0700
 categories: posts
 genres:
+- Mathcore
+- Metalcore
+- Noise Rock
+- Post-Hardcore
+- Post-Rock
+- Progressive Metal
+- Sludge Metal
+- Stoner Metal 
 top-discoveries:
 - discovery: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0EOjjXZ4y45WH4vuEczBjG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   genres:
-  - Doom Metal
   - Noise Rock
+  - Sludge Metal
   - Stoner Metal
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2P7n8z7o9kp6xPJ7sfn59X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
