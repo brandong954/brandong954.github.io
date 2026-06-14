@@ -4,6 +4,14 @@ title: “The Crescendo Was Already Written"
 date: 2026-06-11 00:00:00 -0700
 categories: posts
 genres:
+	- Ambient
+	- Art Rock
+	- Coldwave
+	- Dark Wave
+	- Math Rock
+	- Post-Punk
+	- Post-Rock
+	- Shoegaze
 top-discoveries:
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/19MVTGoDeXPVwrs234pWKV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
